@@ -45,6 +45,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,9 +56,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AZMYEHAB21&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+### 📈 Contributions Summary (May 2025)
+| Metric                        | Value           |
+|------------------------------|------------------|
+| ⭐ Total Stars                | 0               |
+| 🕒 Total Commits (2025)      | 30              |
+| 🔀 Total PRs                 | 0               |
+| ❗ Total Issues              | 1               |
+| 📅 Contributed last year     | 0               |
+| 🧮 Total Contributions       | 38              |
+| 🔥 Current Streak            | 1 day (May 14)  |
+| 🚀 Longest Streak            | 1 day (Jan 14, 2023) |
+| 💬 Most Used Languages       | CSS (34.70%), JavaScript (33.03%), HTML (32.27%) |
 
-
----
 
 ## 📫 Connect with Me
 
