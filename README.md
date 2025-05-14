@@ -48,22 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Stars-0-blue?style=for-the-badge&logo=github" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/Total_Commits-30-brightgreen?style=for-the-badge&logo=github" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/Total_PRs-0-lightgrey?style=for-the-badge&logo=github" alt="Total PRs" />
-  <img src="https://img.shields.io/badge/Total_Issues-1-red?style=for-the-badge&logo=github" alt="Total Issues" />
-  <img src="https://img.shields.io/badge/Total_Contributions-38-yellow?style=for-the-badge&logo=github" alt="Total Contributions" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-1_day_(May_14)-brightgreen?style=for-the-badge&logo=github" alt="Current Streak" />
-  <img src="https://img.shields.io/badge/Longest_Streak-1_day_(Jan_14_2023)-blue?style=for-the-badge&logo=github" alt="Longest Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS-34.7%25-purple?style=for-the-badge&logo=css3" alt="CSS Usage" />
-  <img src="https://img.shields.io/badge/JavaScript-33.0%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Usage" />
-  <img src="https://img.shields.io/badge/HTML-32.3%25-red?style=for-the-badge&logo=html5" alt="HTML Usage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AZMYEHAB21&show_icons=true&theme=tokyonight" alt="Azmy's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZMYEHAB21&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AZMYEHAB21&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
