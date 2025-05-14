@@ -55,6 +55,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AZMYEHAB21&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+### 📈 Contributions Summary (May 2025)
+| Repository                      | Commits |
+|--------------------------------|---------|
+| Personal-Portfolio-Website     | 6       |
+| Personal-Blog                  | 6       |
+| Calculator                     | 5       |
+| To-Do-App                      | 5       |
+| Weather-App                    | 5       |
+| AZMYEHAB21                     | 3       |
+| **Total**                      | **30**  |
+
+
 ---
 
 ## 📫 Connect with Me
