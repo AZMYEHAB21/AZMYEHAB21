@@ -10,24 +10,38 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently working on improving my **backend skills**
-- 👨‍💻 All of my projects are available at: [https://github.com/AZMYEHAB21](https://github.com/AZMYEHAB21)
+- 🧠 I have about **1 year** of experience in backend development
+- 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/AZMYEHAB21)
 - 📫 How to reach me: **azmyehab610@gmail.com**
-- 💡 Goal: Keep learning and building strong backend systems
+- 🎯 My goal is to grow stronger as a backend developer
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
+---
+
+## 🚀 My Projects
+
+| Project                     | Description                          | Live Demo |
+|----------------------------|--------------------------------------|-----------|
+| **Portfolio Website**      | Showcasing my profile and projects   | [View](https://azmyehab21.github.io/Personal-Portfolio-Website/) |
+| **Weather App**            | Weather forecast using external API  | [View](https://azmyehab21.github.io/Weather-App/) |
+| **Personal Blog**          | Simple blog layout and design        | [View](https://azmyehab21.github.io/Personal-Blog/) |
+| **To-Do App**              | Task manager using LocalStorage      | [View](https://azmyehab21.github.io/To-Do-App/) |
+| **Calculator**             | Basic calculator using JavaScript    | [View](https://azmyehab21.github.io/Calculator/) |
 
 ---
 
@@ -43,16 +57,16 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/azmy-ihab-0219b4356" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-azmy--ihab-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-azmy--ihab-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/azmy_ehab_" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-azmy__ehab_-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-azmy__ehab_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:azmyehab610@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-azmyehab610@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-azmyehab610@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
