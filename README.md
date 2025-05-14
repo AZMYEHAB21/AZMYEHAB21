@@ -43,17 +43,7 @@
 | **To-Do App**              | Task manager using LocalStorage      | [View](https://azmyehab21.github.io/To-Do-App/) |
 | **Calculator**             | Basic calculator using JavaScript    | [View](https://azmyehab21.github.io/Calculator/) |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AZMYEHAB21&show_icons=true&theme=tokyonight" alt="Azmy's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZMYEHAB21&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AZMYEHAB21&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
